@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome to my github page 👋
+
+###INTRO - 
+#Hello! I'm Abha Singh, a highly motivated Electrical and Computer Engineering graduate from the University of Florida. With a Master's degree and a robust 4-year track record in the automotive industry, I bring a wealth of expertise in both hardware and software development.  
+
+I am deeply passionate about microcontrollers, real-time operating systems, and software development and testing. With a Master’s degree in Electrical and Computer Engineering from the University of Florida, I have a robust foundation in embedded systems, which has been further honed through hands-on experience in the automotive industry. Here, I developed real-time software for critical safety systems, ensuring high performance and reliability in constrained environments.
+
+Throughout my career, I have demonstrated my ability to lead and deliver high-impact projects. I achieved significant improvements in code quality and maintainability, and ensured compliance with industry standards like ASPICE and MISRA C. My experience in system integration, testing, and debugging, coupled with my ability to collaborate effectively with cross-functional teams, makes me well-suited to drive the development of innovative embedded software solutions.
+
+
+
 
 <!--
 **abhasingh12/abhasingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
