@@ -1,7 +1,7 @@
 ## Welcome to my github page 👋
 
-###INTRO - 
-#Hello! I'm Abha Singh, a highly motivated Electrical and Computer Engineering graduate from the University of Florida. With a Master's degree and a robust 4-year track record in the automotive industry, I bring a wealth of expertise in both hardware and software development.  
+### INTRO - 
+# Hello! I'm Abha Singh, a highly motivated Electrical and Computer Engineering graduate from the University of Florida. With a Master's degree and a robust 4-year track record in the automotive industry, I bring a wealth of expertise in both hardware and software development.  
 
 I am deeply passionate about microcontrollers, real-time operating systems, and software development and testing. With a Master’s degree in Electrical and Computer Engineering from the University of Florida, I have a robust foundation in embedded systems, which has been further honed through hands-on experience in the automotive industry. Here, I developed real-time software for critical safety systems, ensuring high performance and reliability in constrained environments.
 
