@@ -22,3 +22,8 @@ A project to understand the MCAL Layer, SWC, interfaces, and developing ARXML fi
 Projects on FPGA using SystemVerilog. README is in progress.
 
 Feel free to explore my projects, and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+##### EMAIL ID- abhasingh0812@gmail.com
+
+##### Thank you for your time 
+##### ABHA SINGH
