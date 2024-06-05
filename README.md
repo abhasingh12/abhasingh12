@@ -1,26 +1,24 @@
-## Welcome to my github page 👋
 
-### INTRO - 
-# Hello! I'm Abha Singh, a highly motivated Electrical and Computer Engineering graduate from the University of Florida. With a Master's degree and a robust 4-year track record in the automotive industry, I bring a wealth of expertise in both hardware and software development.  
+## Welcome to my GitHub Page 👋
 
-I am deeply passionate about microcontrollers, real-time operating systems, and software development and testing. With a Master’s degree in Electrical and Computer Engineering from the University of Florida, I have a robust foundation in embedded systems, which has been further honed through hands-on experience in the automotive industry. Here, I developed real-time software for critical safety systems, ensuring high performance and reliability in constrained environments.
+### Hello! I'm Abha Singh, a highly motivated Electrical and Computer Engineering graduate from the University of Florida. With a Master's degree and a robust 4-year track record in the automotive industry, I bring a wealth of expertise in both hardware and software development.
 
-Throughout my career, I have demonstrated my ability to lead and deliver high-impact projects. I achieved significant improvements in code quality and maintainability, and ensured compliance with industry standards like ASPICE and MISRA C. My experience in system integration, testing, and debugging, coupled with my ability to collaborate effectively with cross-functional teams, makes me well-suited to drive the development of innovative embedded software solutions.
+I am passionate about microcontrollers, real-time operating systems, and software development and testing. My Master's in Electrical and Computer Engineering from the University of Florida, combined with hands-on experience in the automotive industry, has given me a solid foundation in embedded systems. I have developed real-time software for critical safety systems, ensuring high performance and reliability.
 
+Throughout my career, I have led and delivered high-impact projects, achieving significant improvements in code quality and maintainability. I ensure compliance with industry standards like ASPICE and MISRA C. My experience in system integration, testing, debugging, and effective cross-functional team collaboration makes me well-suited to drive innovative embedded software solutions.
 
+### My GitHub Page Includes:
 
+#### My_PYTHON_PAGE
+Fun games I have developed while mastering Python. More projects and continuous improvements are in progress.
 
-<!--
-**abhasingh12/abhasingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Zed_Board Custom IP
+A project implementing a custom convolution circuit on the Zedboard FPGA platform.
 
-Here are some ideas to get you started:
+#### My_AUTOSAR
+A project to understand the MCAL Layer, SWC, interfaces, and developing ARXML files.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### System_Verilog Project
+Projects on FPGA using SystemVerilog. README is in progress.
+
+Feel free to explore my projects, and don't hesitate to reach out if you have any questions or collaboration ideas!
